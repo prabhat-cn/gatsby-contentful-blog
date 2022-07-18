@@ -104,8 +104,8 @@ exports.createSchemaCustomization = ({ actions }) => {
       date: Date @dateformat
     }
 
-    type Fields {
-      slug: String
-    }
+    // type Fields {
+    //   slug: String
+    // }
   `)
 }

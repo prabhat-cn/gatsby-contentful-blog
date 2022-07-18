@@ -88,17 +88,17 @@ export const pageQuery = graphql`
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {
-      fields {
-        slug
-      }
+      // fields {
+      //   slug
+      // }
       frontmatter {
         title
       }
     }
     next: markdownRemark(id: { eq: $nextPostId }) {
-      fields {
-        slug
-      }
+      // fields {
+      //   slug
+      // }
       frontmatter {
         title
       }
