@@ -1,0 +1,25 @@
+https://www.gatsbyjs.com/starters/
+
+// gats with contentful
+https://youtube.com/playlist?list=PL2dKqfImstaRbjzzirbBfv9W2kycaKjvs
+
+// plugins
+https://www.gatsbyjs.com/plugins
+
+https://www.gatsbyjs.com/plugins/gatsby-plugin-config/?=dotenv
+
+
+// env setup
+https://gatsby.dev/env-vars
+
+
+
+
+
+
+
+
+
+
+
+
