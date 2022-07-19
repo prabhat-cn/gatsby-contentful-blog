@@ -14,7 +14,7 @@ https://gatsby.dev/env-vars
 
 https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-link/
 
-
+https://youtube.com/playlist?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB
 
 
 
