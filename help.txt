@@ -12,7 +12,7 @@ https://www.gatsbyjs.com/plugins/gatsby-plugin-config/?=dotenv
 // env setup
 https://gatsby.dev/env-vars
 
-
+https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-link/
 
 
 

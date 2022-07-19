@@ -36,6 +36,21 @@ const BlogIndex = ({ data, location }) => {
               >
                 Gatsby App Using Contentful Api
               </h1>
+              <Link
+                type="button"
+                className="btn btn-primary"
+                // onClick={() => navigate('/')}
+                to={"/About/"}
+              >
+                Author List
+              </Link>
+              <button
+                type="button"
+                className="btn btn-success"
+                onClick={() => "About.js"}
+              >
+                Author List
+              </button>
               <table className="table table-striped table-hover mt-5">
                 <thead>
                   <tr>
